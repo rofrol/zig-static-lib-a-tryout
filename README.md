@@ -1,0 +1,1 @@
+# zig-static-lib-a-tryout
